@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="descriptions">
+        <item>Arman Ospanov won Rassul</item>
+        <item>Zhalgas Zhumagulov signed a contract with UFC</item>
+        <item>Shavkat Rakhmonov vs Bartosh Fabinski</item>
+        <item>It is a baseball</item>
+        <item>It is a basketball</item>
+        <item>It is a billiard</item>
+        <item>It is a coach</item>
+        <item>It is a football</item>
+        <item>It is a box</item>
+        <item>It is a volleyball</item>
+    </string-array>
+</resources>
